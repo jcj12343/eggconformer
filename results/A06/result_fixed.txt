@@ -1,0 +1,14 @@
+Best Val Acc: 0.4000
+Test Acc: 0.3000
+Test Kappa: 0.0797
+
+              precision    recall  f1-score   support
+
+        Left     0.2143    0.4286    0.2857         7
+       Right     0.4444    0.4444    0.4444         9
+        Feet     0.4286    0.2500    0.3158        12
+      Tongue     0.2000    0.1667    0.1818        12
+
+    accuracy                         0.3000        40
+   macro avg     0.3218    0.3224    0.3069        40
+weighted avg     0.3261    0.3000    0.2993        40

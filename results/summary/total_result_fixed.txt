@@ -1,0 +1,13 @@
+Global Test Acc: 0.4571 | Global Kappa:0.2775
+Avg Val Acc:0.5508 | Avg Test Acc:0.4539 | Avg Kappa:0.2745
+
+              precision    recall  f1-score   support
+
+        Left     0.4554    0.5610    0.5027        82
+       Right     0.4500    0.5556    0.4972        81
+        Feet     0.5385    0.3146    0.3972        89
+      Tongue     0.4110    0.4054    0.4082        74
+
+    accuracy                         0.4571       326
+   macro avg     0.4637    0.4591    0.4513       326
+weighted avg     0.4667    0.4571    0.4511       326
